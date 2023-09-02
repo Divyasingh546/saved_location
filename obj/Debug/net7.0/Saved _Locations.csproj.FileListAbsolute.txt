@@ -1,0 +1,33 @@
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\appsettings.Development.json
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\appsettings.json
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\Saved _Locations.exe
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\Saved _Locations.deps.json
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\Saved _Locations.runtimeconfig.json
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\Saved _Locations.dll
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\Saved _Locations.pdb
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\Saved _Locations\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.csproj.AssemblyReference.cache
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.AssemblyInfoInputs.cache
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.AssemblyInfo.cs
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\staticwebassets\msbuild.Saved _Locations.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\staticwebassets\msbuild.build.Saved _Locations.props
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Saved _Locations.props
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Saved _Locations.props
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\staticwebassets.pack.json
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\staticwebassets.build.json
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\staticwebassets.development.json
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\scopedcss\bundle\Saved _Locations.styles.css
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.csproj.CopyComplete
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.dll
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\refint\Saved _Locations.dll
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.pdb
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\Saved _Locations.genruntimeconfig.cache
+D:\New folder (2)\Saved _Locations\obj\Debug\net7.0\ref\Saved _Locations.dll
